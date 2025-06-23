@@ -44,4 +44,4 @@ Microsoft Excel (assumed) or any tabular data source for dataset preparation
 
 # Dashboard
 <a href="https://github.com/digambasingh/HR-Data-Analysis--Dashboard/blob/main/Screenshot%20(38).png"></a>
-[Screenshot (38)](https://github.com/user-attachments/assets/cf544178-5f1d-4220-8f62-575f55fbaa2d)
+![Screenshot (38)](https://github.com/user-attachments/assets/cf544178-5f1d-4220-8f62-575f55fbaa2d)

@@ -1,6 +1,7 @@
 # HR-Data-Analysis--Dashboard
 Developed an interactive HR analytics dashboard through iterative improvements to visualize employee attrition trends. Key iterations included:
 <DataSet used>
+<a href="https://github.com/digambasingh/HR-Data-Analysis--Dashboard/blob/main/HR_Analytics.csv">hr-dataset.csv</a>
 
 
 HR Analytics Dashboard using Power BI

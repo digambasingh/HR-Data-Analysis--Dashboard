@@ -41,3 +41,6 @@ Tools & Technologies Used
 Power BI for data visualization and dashboard creation
 
 Microsoft Excel (assumed) or any tabular data source for dataset preparation
+
+# Dashboard
+<a href="https://github.com/digambasingh/HR-Data-Analysis--Dashboard/blob/main/Screenshot%20(38).png">
